@@ -6,7 +6,7 @@
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="{{ route('root_path') }}">Home </a>
             </li>
             <li class="nav-item">
